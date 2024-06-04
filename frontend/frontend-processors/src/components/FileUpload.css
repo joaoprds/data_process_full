@@ -1,0 +1,21 @@
+/* FileUpload.css */
+
+.upload-container {
+  background-color: royalblue;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.upload-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.upload-section h2 {
+  margin-bottom: 10px;
+}
